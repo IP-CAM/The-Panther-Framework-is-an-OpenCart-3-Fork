@@ -13,24 +13,4 @@ Framework Panther
 	<img src="https://img.shields.io/badge/opencart-3.0.3.3-blue.svg" alt="Compatibilidade">
 </p>
 
-### Framework Panther
-
-Desenvolvido com as tecnologias web: PHP 8, CSS3 e HTML5.
-
-O **Framework Panther** é um fork do OpenCart 3, que tem o objetivo de oferecer uma versão do OpenCart otimizada, atualizada, segura, com testes e que rode em PHP8 com foco especial no mercado brasileiro.
-
-
-## Roteiro
-
-### Tarefas concluídas:
-
-- [x] Feito o fork do OpenCart 3.0.3.6.
-- [x] Traduzido o install para pt-br Framework Panther.
-
-### Tarefas em andamento:
-
-- [ ] Traduzir área de admin para pt-br.
-
-### Próximas tarefas:
-
-- [ ] Traduzir área do usuário para pt-br.
+The Panther Framework is an OpenCart 3 Fork, which aims to offer a version of optimized, updated, secure, tests and ride in PHP8 with special focus on the Brazilian market.
